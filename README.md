@@ -9,7 +9,7 @@
 ```bash
 npm install platzidate
 
-Uso básico
+📦 Uso del paquete
 
 const platziDate = require('platzidate');
 
