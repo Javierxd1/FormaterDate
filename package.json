@@ -1,0 +1,17 @@
+{
+  "name": "platzidate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "nodejs"
+  ],
+  "author": "Javier Agudelo <javieragu1104@gmail.com>",
+  "desciption": "Utilidad para manejar fechas en formato timestamp y long time",
+  "license": "ISC",
+  "type": "commonjs"
+}
