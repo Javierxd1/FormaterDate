@@ -17,7 +17,7 @@ const now = new Date();
 
 console.log(platziDate.timestamp(now));  // Ejemplo de salida: 1618351234
 console.log(platziDate.longTime(now));   // Ejemplo de salida: "Hace 5 minutos"
-
+```
 
 ### 💡 Consejo adicional
 
